@@ -32,6 +32,10 @@
 $ npm install
 ```
 
+```bash
+$ You must create a local .env file to be able to use database config
+```
+
 ## Running the app
 
 ```bash
