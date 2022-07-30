@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Basic API Rest project made with NestJS using basic concepts of its design pattern and basic introduction on how to start a NestJS application
+
 ## Installation
 
 ```bash
